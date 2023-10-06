@@ -1,0 +1,18 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+ background-color: steelblue;
+ }
+ 
+h1 {
+ color: antiquewhite;
+ text-align: center;
+}
+
+p {
+  color: antiquewhite;
+ font-family: 'Times New Roman', Times, serif;
+ font-size: 20px;
+}
