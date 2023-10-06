@@ -1,0 +1,16 @@
+body {
+  background-color: #b3dac5;
+}
+
+table {
+    width:100%;
+    cellpadding:10;
+}
+
+td {
+  text-align: center;
+  vertical-align: middle;
+}
+img {
+  width: 120px;
+}
