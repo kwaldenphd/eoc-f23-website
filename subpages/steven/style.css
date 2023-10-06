@@ -1,0 +1,13 @@
+body {
+ background-color: lightsalmon;
+ }
+ 
+h1 {
+ color: orangered;
+ text-align: center;
+}
+
+p {
+ font-family: Georgia, 'Times New Roman', Times, serif;
+ font-size: 20px;
+}
