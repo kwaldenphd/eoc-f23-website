@@ -1,0 +1,15 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+background-color: aliceblue;
+}
+h1 {
+  color:navy;
+  text-align: left;
+  font-family: 'Courier New', Courier, monospace
+}
+img{
+  align-content:center
+}

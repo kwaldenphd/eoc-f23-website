@@ -1,0 +1,17 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+ background-color: lightpink;
+ }
+ 
+h1 {
+ color: mintcream;
+ text-align: center;
+}
+
+p {
+ font-family: courier;
+ font-size: 20px;
+}

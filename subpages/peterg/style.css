@@ -1,0 +1,57 @@
+html {
+  height: 100%;
+  width: relative;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+body {
+  background-color: MediumSeaGreen;
+}
+
+.a[href^="PeterGrissomHeadshot"]{
+  float: left;
+}
+
+.headshot{
+  width:100%;
+  height:auto;
+}
+
+
+/* Used W3Schools Template and worked backwards to get it how I wanted it to look. */
+.topnav {
+  background-color: darkgreen;
+  overflow: hidden;
+  position: sticky;
+  top:0;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 24px;
+}
+
+.topnav a:hover {
+  background-color: white;
+  color: black;
+}
+
+.topnav a.active {
+  color: white;
+}
+
+.topnav a.active:hover{
+  background-color: white;
+  color: black;
+}
+
+/* to here */
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
