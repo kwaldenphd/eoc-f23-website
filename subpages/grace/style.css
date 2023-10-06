@@ -1,0 +1,21 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: lightyellow;
+}
+
+h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: navy;
+}
+
+p{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: navy;
+}
+
+table, th, td {
+  border: 1px solid black;
+}

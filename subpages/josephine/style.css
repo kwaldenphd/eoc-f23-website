@@ -1,0 +1,26 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+ background-color: #d4f2ce;
+ }
+ 
+h1 {
+  font-family: arial;
+ color: #135705;
+ text-align: center;
+}
+
+p {
+ font-family: arial;
+ font-size: 20px;
+}
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  font-family: arial;
+  font-size: 20px;
+}
